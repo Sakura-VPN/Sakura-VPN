@@ -1,4 +1,4 @@
-# Sakura VPN
+# Sakura VPN 🌸
 
 Удобный и быстрый VPN для Google Chrome.
 
